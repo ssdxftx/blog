@@ -45,5 +45,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./blog/public
           publish_branch: gh-pages
+          cname: blog.06162636.xyz
           user_name: github-actions[bot]
           user_email: github-actions[bot]@users.noreply.github.com
