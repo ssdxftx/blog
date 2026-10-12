@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 我的博客
-subtitle: '记录 · 分享 · 思考'
-description: '一个基于 Hexo 与 Stellar 的个人博客'
-keywords: '博客,笔记,知识库'
-author: 博主
+title: 阿刻还没写完
+subtitle: 写字 · 走神 · 忘记
+description: 深夜在《3333夜》里锐评热搜，闲下来在《阿刻的漫游时间》随便走走。写完就忘，忘了再写。
+keywords: 阿刻,3333夜,阿刻的漫游时间,热搜锐评,每日热点,时事评论,随笔日记,二次元,生活记录
+author: 阿刻
+avatar: https://static.06162636.xyz/file/img/1791801526623_IMG_20260815_001047.webp
 language: zh-CN
-timezone: 'Asia/Shanghai'
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
