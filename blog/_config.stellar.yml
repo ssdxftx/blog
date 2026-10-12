@@ -8,22 +8,26 @@ leftbar:
       title: menu.blog
       icon: default:documents
       url: /
+    - id: night3333
+      title: 3333夜
+      icon: default:moon
+      url: /categories/3333夜/
+    - id: roam
+      title: 阿刻的漫游时间
+      icon: default:person-walking
+      url: /categories/阿刻的漫游时间/
     - id: categories
       title: menu.categories
       icon: default:category
-      url: /blog/categories/
+      url: /categories/
     - id: tags
       title: menu.tags
       icon: default:hashtag
-      url: /blog/tags/
-    - id: topic
-      title: menu.topic
-      icon: default:pin
-      url: /topic/
+      url: /tags/
     - id: archives
       title: menu.archives
       icon: default:calendar
-      url: /blog/archives/
+      url: /archives/
     - id: about
       title: menu.about
       icon: default:profile
